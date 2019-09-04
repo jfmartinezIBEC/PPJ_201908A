@@ -1,0 +1,5 @@
+for (i=0;i<=1000;i++){ 
+   	document.write(i + "<br>") 
+   	if (i==333) 
+      	break; 
+}
