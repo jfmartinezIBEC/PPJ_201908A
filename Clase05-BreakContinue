@@ -16,6 +16,25 @@ break;
 
 }
 
+/*
+// Clase 05 - Break Continue
+// fmartinez@ibec.edu.uy
+// por consola!
+var escribe='NO';
+
+for (i=0;i<10;i++){
+console.log (i);
+escribe= prompt("Dime y seguire preguntando ...", 'SI');
+
+if (escribe == "NO"){
+break;
+}
+
+}
+
+
+*/
+
 
 </script>
 
